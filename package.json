@@ -1,0 +1,30 @@
+{
+  "name": "tzcare-node",
+  "version": "1.0.0",
+  "description": "IoT node that collects the user alerts",
+  "main": "app.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TedNIVAN/tzcare-node.git"
+  },
+  "keywords": [
+    "tzcare",
+    "tezos",
+    "blockchain"
+  ],
+  "author": "Ted NIVAN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TedNIVAN/tzcare-node/issues"
+  },
+  "homepage": "https://github.com/TedNIVAN/tzcare-node#readme",
+  "dependencies": {
+    "aes-js": "^3.1.2",
+    "conseiljs": "^0.3.7",
+    "dotenv": "^8.2.0",
+    "serialport": "^8.0.7"
+  }
+}
