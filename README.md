@@ -31,3 +31,5 @@ IV=
 ```
 node app.js
 ```
+
+![Device Alert](https://github.com/tzcare/tzcare-node/blob/master/device-alert.png)
